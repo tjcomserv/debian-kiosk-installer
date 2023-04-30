@@ -2,7 +2,7 @@
 Small installer script to setup a minimal kiosk with Chromium for Debian based Linux distros. This installer is heavily based on the excellent [instructions by Will Haley](http://willhaley.com/blog/debian-fullscreen-gui-kiosk/).
 
 ## Usage
-* Setup a minimal Debian without display manager, e.g. Kali netboot cd [i386](http://http.kali.org/dists/kali-rolling/main/installer-amd64/current/images/netboot/mini.iso) / [amd64](http://http.kali.org/dists/kali-rolling/main/installer-i386/current/images/netboot/mini.iso)
+* Setup a minimal Debian without display manager, e.g. Kali netboot cd [i386](https://http.kali.org/dists/kali-rolling/main/installer-i386/current/images/netboot/mini.iso) / [amd64](https://http.kali.org/dists/kali-rolling/main/installer-amd64/current/images/netboot/mini.iso)
 * Login as root or with root permissions
 * Download this installer, make it executable and run it
 
